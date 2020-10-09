@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.item {
+  background-color: #b3e3de;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px
+}
+button {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 15px;
+  background-color: teal;
+  outline: white;
+  font-weight: 600;
+}
+
+b {
+  color: slateblue;
+  font-size: 1.2rem;
+}
+h1 b {
+  font-size: 2.2rem;
+}
+#converter {
+  margin-left: 12px;
+}
+input {
+  border: 2px solid #345;
+  padding: 7px;
+  border-radius: 8px;
+}
